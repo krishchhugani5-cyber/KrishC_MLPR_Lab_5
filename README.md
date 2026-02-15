@@ -11,8 +11,10 @@ Methodology:
 4)to classify the Template I Processed a new test image (Dr_Shashi_Tharoor.jpg) through the same feature extraction pipeline. Then Predicted the cluster label for the new image to determine similarity with existing groups.
 
 Key-Findings:
+
+
 The initial scatter plot reveals the distribution of faces based on Hue and Saturation levels.
 The K-Means algorithm successfully separated the faces into two clusters (Cluster 0 and Cluster 1), indicated by the distinct centroids.
-The test image was classified into Cluster [Insert Label Here], indicating it shares closer feature similarity with that specific group.
+The test image was classified into Cluster 1, indicating it shares closer feature similarity with that specific group.
 
 Conclusion: The experiment demonstrated that simple color-based features (Hue and Saturation) combined with K-Means clustering can effectively group faces with similar lighting or skin tone properties. The classification of the template image validates the model's ability to assign new data points to learned clusters based on distance metrics.
