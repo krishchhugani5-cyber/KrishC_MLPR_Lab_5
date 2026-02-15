@@ -15,8 +15,8 @@ Key-Findings:
 ![image alt](https://github.com/krishchhugani5-cyber/KrishC_MLPR_Lab_5/blob/a665b1ba6dc6b031180ee759ffb8fccc186a5c6e/Screenshot%202026-02-16%20004322.png)
 ![image alt](https://github.com/krishchhugani5-cyber/KrishC_MLPR_Lab_5/blob/62d8d13cabf40822362b7fc9d5324dad6e549ba2/Screenshot%202026-02-16%20004754.png)
 ![image alt](https://github.com/krishchhugani5-cyber/KrishC_MLPR_Lab_5/blob/76e04917d37d768047c3236556e5744e0716b46a/Screenshot%202026-02-16%20004806.png)
-![image alt](
-![image alt](
+![image alt](https://github.com/krishchhugani5-cyber/KrishC_MLPR_Lab_5/blob/f884d41b6a88f43357216c21329eee033d097984/Screenshot%202026-02-16%20004820.png)
+![image alt](https://github.com/krishchhugani5-cyber/KrishC_MLPR_Lab_5/blob/f884d41b6a88f43357216c21329eee033d097984/Screenshot%202026-02-16%20004833.png)
 
 The initial scatter plot reveals the distribution of faces based on Hue and Saturation levels.
 The K-Means algorithm successfully separated the faces into two clusters (Cluster 0 and Cluster 1), indicated by the distinct centroids.
