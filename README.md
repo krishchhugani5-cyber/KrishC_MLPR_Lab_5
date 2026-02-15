@@ -11,7 +11,12 @@ Methodology:
 4)to classify the Template I Processed a new test image (Dr_Shashi_Tharoor.jpg) through the same feature extraction pipeline. Then Predicted the cluster label for the new image to determine similarity with existing groups.
 
 Key-Findings:
-
+![image alt](https://github.com/krishchhugani5-cyber/KrishC_MLPR_Lab_5/blob/a8818721b13acc0fb54d82287494517010f91395/Screenshot%202026-02-16%20004247.png)
+![image alt](
+![image alt](
+![image alt](
+![image alt](
+![image alt](
 
 The initial scatter plot reveals the distribution of faces based on Hue and Saturation levels.
 The K-Means algorithm successfully separated the faces into two clusters (Cluster 0 and Cluster 1), indicated by the distinct centroids.
